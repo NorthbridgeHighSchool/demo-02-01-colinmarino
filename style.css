@@ -1,0 +1,17 @@
+img {
+max-width: 310px;
+border: solid 2px black;
+padding: 3px;
+margin: 15px;
+}
+.odd {
+float: left;
+margin: right 20px;
+}
+.even {
+float: right;
+margin: left 20px;
+}
+p {
+  text-align: justify;
+}
